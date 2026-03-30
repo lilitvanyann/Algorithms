@@ -28,3 +28,9 @@ int main()
         cout << arr[m]; 
     
 }
+
+//Timeing
+
+//Bubble 0.0045
+//Selection 0.00085
+//Insertion 0.0034
